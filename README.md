@@ -1,19 +1,24 @@
-📱 Dokumentasi Proyek Mobile Test App API Demos
+## 📱 Dokumentasi Proyek Mobile Test App API Demos
 
 Hai! Selamat datang di repository dokumentasi proyek **Mobile Test App API Demos** aku 🚀  
 Di sini aku mendokumentasikan seluruh proses pengujian aplikasi mobile ini, mulai dari Test Plan sampai Final Report. Semua tahapan aku pisahkan per folder supaya gampang diikuti dan ga bikin bingung 😄
 
 ## Struktur Folder
 
-**1_Test_Plan** → Berisi dokumen **Test Plan** yang menjelaskan ruang lingkup, tujuan, strategi, dan jadwal project ini.  
+1. **Test_Plan** 
+Berisi dokumen **Test Plan** yang menjelaskan ruang lingkup, tujuan, strategi, dan jadwal project ini.  
 
-**2_Test_Case** → Berisi **35 Test Case** dari **11 fitur**. Dari total itu, **6 fitur dengan 18 Test Case** diuji otomatis, hasilnya **2 failed di auto test**, sisanya **passed with note**.  
+2. **Test_Case** 
+Berisi **35 Test Case** dari **11 fitur**. Dari total itu, **6 fitur dengan 18 Test Case** diuji otomatis, hasilnya **2 failed di auto test**, sisanya **passed with note**.  
 
-**3_Auto_Test** → Kumpulan script **Automation Testing** menggunakan **JavaScript + Appium + WebDriverIO (WDIO)**, dilengkapi **Page Object Model (POM)** supaya script clean, reusable, dan dry. Termasuk setup untuk generate report **Allure**.  
+3. **Auto_Test** 
+Kumpulan script **Automation Testing** menggunakan **JavaScript + Appium + WebDriverIO (WDIO)**, dilengkapi **Page Object Model (POM)** supaya script clean, reusable, dan dry. Termasuk setup untuk generate report **Allure**.  
 
-**4_Allure_Report** → File report dari Allure yang sudah dijadikan **PDF**, biar lebih mudah dibaca dan dibagikan.  
+4. **Allure_Report** 
+File report dari Allure yang sudah dijadikan **PDF**, biar lebih mudah dibaca dan dibagikan.  
 
-**5_Final_Report** → Laporan akhir yang merangkum **keseluruhan hasil testing**, temuan penting, dan saran improvement.  
+5. **Final_Report** 
+Laporan akhir yang merangkum **keseluruhan hasil testing**, temuan penting, dan saran improvement.  
 
 ## Deskripsi Proyek
 
@@ -31,4 +36,5 @@ Postinganku di LinkedIn (tentang project ini): [https://www.linkedin.com/posts/i
 
 ---
 
-> Catatan: Project ini aku susun sebagai dokumentasi lengkap dari proses **Mobile App API Testing** aku. Tiap tahapan aku pisahkan di folder berbeda supaya lebih rapi. Kalau ada saran atau masukan, aku akan senang banget buat pengembangan project berikutnya! 💡
+## > Catatan: 
+Project ini aku susun sebagai dokumentasi lengkap dari proses **Mobile App API Testing** aku. Tiap tahapan aku pisahkan di folder berbeda supaya lebih rapi. Kalau ada saran atau masukan, aku akan senang banget buat pengembangan project berikutnya! 💡
